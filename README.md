@@ -84,6 +84,4 @@ Open `Paraphrasing.ipynb` in Jupyter or Google Colab and run the cells in order.
 - [SentencePiece](https://github.com/google/sentencepiece) — tokenization
 - [sentence-splitter](https://pypi.org/project/sentence-splitter/) — (for splitting longer text into sentences before paraphrasing, given the 60-token limit)
 
-## License
 
-Add a license of your choice (e.g. MIT) here. Note the underlying model (`tuner007/pegasus_paraphrase`) has its own license terms on Hugging Face worth checking.
